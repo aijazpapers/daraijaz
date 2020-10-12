@@ -1,10 +1,8 @@
-<html>
-<head>
+1.Name :  Ishtiyaq Ahmad
+Ph.D : January  2019-Present
+Research interests : Crystal Engineering ,Noval Supramolecular synthons , co-crystals, molecular salts, Theoritical investigations ( crystal explorer). crystallographic investigations- crystal packing,
+B.sc : University of Kashmir, Srinagar.
+M.sc : Jiwaji University, Gwalior.
+Email : Ishtiyaq.chem@gmail.com
+Mob : 9682518074
 
-Dr Aijaz's Research Group
-</head>
-
-<body>
-Dr Aijaz's Research Group
-</body>
-</html>
